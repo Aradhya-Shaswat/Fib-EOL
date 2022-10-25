@@ -12,16 +12,15 @@ export default function Home() {
       <header className="App-header">
       <Image src={logo} className="App-logo" alt="logo" width="400" height="400"/>
         <p>
-          <b>Friendbase</b> has Reached its <u>End of Life</u> and it will be no longer continued.
-        </p>
-        <a
+          <b>Friendbase</b> has Reached its <u>End of Life</u>. It will be continued by         <a
           className="App-link"
-          href="https://github.com/Fib-Inc/friendbaseinc"
+          href="https://friendbase.tech/unbalanced"
           target=""
           rel=""
         >
-          Source Code
+          UnBalanced
         </a>
+        </p>
       </header>
     </div>
   )
