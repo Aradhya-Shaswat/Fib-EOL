@@ -5,21 +5,6 @@ import main from '../public/main.png'
 function unBalanced() {
   return (
     <div className="App">
-      <div className='heading'>
-      <br />
-      ㅤ
-      <a
-          className="App-link2"
-          href="https://friendbase.tech"
-          target="_self"
-          rel=""
-        >
-          Back to Friendbase.
-      </a>
-      ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<b>info@friendbase.tech </b>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ&copy; Fib inc. 2022
-      <br />
-      ㅤ
-      </div>
       <Head>
         <title>UnBalanced.</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
